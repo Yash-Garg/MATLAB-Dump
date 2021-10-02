@@ -1,4 +1,4 @@
-# Percentage generation of basic waveform
+%Percentage generation of basic waveform
 
 clear all;
 clc;
@@ -30,7 +30,7 @@ title('ramp signal')
 xlabel('n')
 ylabel('Amplitude')
 
-%Exponential signal 
+%Exponential signal
 n2=input('Enter length of signal')
 t=0:n2;
 a=input('Enter a value');

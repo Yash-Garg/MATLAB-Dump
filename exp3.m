@@ -1,4 +1,4 @@
-# Linear Convolution of Two Sequence
+%Linear Convolution of Two Sequence
 
 clear all;
 clc;
